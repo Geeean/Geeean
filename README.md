@@ -1,9 +1,9 @@
-- Hi, I’m Giancarlo Portillo
-- I’m interested in Software Engineering and Full Stack Development
-- I’m currently learning Computer Engineering
-- I'm originally from Mililani Hawaii
-- I'm a Computer Engineering Graduate
-- I chose my major because Michael Reeves (Heres a link to his Youtube Channel) https://www.youtube.com/@MichaelReeves 
-- A fun fact about me is: I love surfing but im also really bad at it
-- What do I want to learn from EE 205?  importing Software Engineering concepts and ideas
-- A book or movie I'd recommend is: White Noise
+- 👋 Aloha, I’m Giancarlo Portillo
+- 👀 I’m interested in Programming and Full Stack Development
+- 🌱 I’m currently relearning data structures and algorithms
+- 🌐 I'm originally from Mililani Hawaii
+- 📓 I'm a Computer Engineering graduate
+- 🍎 I chose my major because of Michael Reeves (Heres a link to his Youtube Channel) https://www.youtube.com/@MichaelReeves 
+- ✨ A fun fact about me is: I love surfing but im also really bad at it
+- 🎓 What do I want to learn from EE 205?  important Software Engineering concepts and methods
+- 📚 A book or movie I'd recommend is: White Noise
