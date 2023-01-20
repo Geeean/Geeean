@@ -5,5 +5,4 @@
 - 📓 I'm a Computer Engineering graduate
 - 🍎 I chose my major because of Michael Reeves (Heres a link to his Youtube Channel) https://www.youtube.com/@MichaelReeves 
 - ✨ A fun fact about me is: I love surfing but im also really bad at it
-- 🎓 What do I want to learn from EE 205?  important Software Engineering concepts and methods
 - 📚 A book or movie I'd recommend is: White Noise
