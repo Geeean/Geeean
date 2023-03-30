@@ -1,5 +1,5 @@
 - 👋 Aloha, I’m Giancarlo Portillo
-- 👀 I’m interested in Programming and Full Stack Development
+- 👀 I’m interested in Software Engineering and Full Stack Development
 - 🌱 I’m currently relearning data structures and algorithms
 - 🌐 I'm originally from Mililani Hawaii
 - 📓 I'm a Computer Engineering graduate
